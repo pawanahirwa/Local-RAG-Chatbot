@@ -1,0 +1,28 @@
+# Virtual environments
+rag_env/
+venv/
+env/
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.Python
+
+# Chroma / vector DB
+chroma_db/
+*.sqlite3
+.chroma/
+
+# PDFs and test data (don't commit large/private files)
+*.pdf
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs
+*.log
