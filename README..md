@@ -76,4 +76,4 @@ Key settings in `app.py`:
 
 ## 📄 License
 
-MIT
+pawanahirwa
