@@ -74,6 +74,8 @@ Key settings in `app.py`:
 | `k` | `3` | Number of chunks retrieved per query |
 | `num_ctx` | `2048` | LLM context window size |
 
-## 📄 License
+👤 Author
+Pawan Singh Ahirwar
 
-MIT
+GitHub: @pawanahirwa
+Affiliation: IRCC, IIT Bombay#Local RAG chatbot
